@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace QuanLyShopCF_XML
 {
-    public partial class Form1 : Form
+    public partial class BanHang : Form
     {
-        public Form1()
+        public BanHang()
         {
             InitializeComponent();
         }

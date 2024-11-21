@@ -1,0 +1,1026 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NhanViens>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Nguyễn Văn A</TenUser>
+    <TenDN>nguyenvana</TenDN>
+    <MatKhau>password123</MatKhau>
+    <RoleID>1</RoleID>
+    <NgaySinh>1990-01-01</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hà Nội</DiaChi>
+    <Email>vana@example.com</Email>
+    <SDT>0123456789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Phạm Thị B</TenUser>
+    <TenDN>phamthib</TenDN>
+    <MatKhau>12345</MatKhau>
+    <RoleID>2</RoleID>
+    <NgaySinh>1995-05-05</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <Email>phamb@example.com</Email>
+    <SDT>0987654321</SDT>
+  </NhanVien>
+  <NhanVien>
+    <TenUser>Lê Văn C</TenUser>
+    <TenDN>levanc</TenDN>
+    <MatKhau>abcde</MatKhau>
+    <RoleID>3</RoleID>
+    <NgaySinh>2000-12-12</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <Email>levanc@example.com</Email>
+    <SDT>0112233445</SDT>
+  </NhanVien>
+</NhanViens>
